@@ -3,4 +3,4 @@ A repo to showcase some of the ad-hoc visualisations & analyses I've put togethe
 
 | Name |
 | :---: | 
-[Uk Paygap Data](https://github.com/tangandhara/Portfolio/blob/main/Uk%20Paygap.R)
+[Uk Paygap Data](https://github.com/tangandhara/Portfolio/tree/main/UK%20Pay%20Gap)
