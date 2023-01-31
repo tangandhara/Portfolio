@@ -14,6 +14,6 @@ This approach does have limitations, specifically by using mean values per local
 
 ### Visualisation
 
-The resulting visualisation was put together using [ggplot2](https://ggplot2-book.org/index.html) and [patchwork](https://patchwork.data-imaginist.com/). 
+The resulting visualisation was put together using [ggplot2](https://ggplot2-book.org/index.html) and [patchwork](https://patchwork.data-imaginist.com/). The full code is available [here](https://github.com/tangandhara/Portfolio/blob/main/UK%20Pay%20Gap/Uk%20Paygap.R).
 
 ![UK Pay Gap ](Paygap_plot.jpg)
